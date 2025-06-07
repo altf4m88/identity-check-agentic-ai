@@ -1,0 +1,12 @@
+# --- Core AI and Agent Framework ---
+langchain[google-genai]
+langgraph
+google-generativeai
+
+# --- Web Framework ---
+Flask
+
+# --- Utilities ---
+python-dotenv
+Pillow
+Rich
